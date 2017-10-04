@@ -1,0 +1,27 @@
+{
+  "name": "serverless-react-tutorial",
+  "version": "1.0.0",
+  "description": "Serverless + React + Code * test app",
+  "main": "main.js",
+  "dependencies": {
+    "aws-sdk": "^2.121.0",
+    "guess-content-type": "^0.1.0",
+    "unzip-stream": "^0.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jogura/serverless-react-tutorial.git"
+  },
+  "author": "James Ogura (jogura@collegeboard.org)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jogura/serverless-react-tutorial/issues"
+  },
+  "homepage": "https://github.com/jogura/serverless-react-tutorial#readme"
+}
